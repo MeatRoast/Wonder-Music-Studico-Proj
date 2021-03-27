@@ -3,7 +3,7 @@ Discord WaterLand Server BOT Porject
 This bot is made for play in Waterland, The main functions are as follows.  
 ## Main functions
 >1. Karaoke reservation feature = commands are scheduled to the next queue.   
->2. watingy.   
+>2. wating.   
 
 
 # 워터랜드-프로젝트   
