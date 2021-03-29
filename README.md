@@ -1,5 +1,5 @@
 # WaterLand-Proj
-Discord WaterLand Server BOT Porject   
+Discord WaterLand Server BOT project    
 This bot is made for play in Waterland, The main functions are as follows.  
 ## Main functions
 >1. Karaoke reservation feature = commands are scheduled to the next queue.   
