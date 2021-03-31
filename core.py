@@ -5,7 +5,7 @@ from itertools import cycle
 status = cycle(
     [        
         '[ ;help ] 감사합니다!',
-        'Copyright ©2021 WaterLand. All rights reserve"'
+        'Copyright ©2021 Wonder-Music-Studico. All rights reserve"'
     ]
 )
 
