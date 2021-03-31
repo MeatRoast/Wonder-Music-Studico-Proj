@@ -17,7 +17,7 @@ async def on_ready():
     print('')
     print('')
     print("             Copyright ©2021 MeatRoast Inc. All rights reserve")
-    print("             Copyright ©2021 WaterLand. All rights reserve")
+    print("             Copyright ©2021 Wonder-Music-Studico. All rights reserve")
     print("             ")
     print('')
     print("         BOT NAME:", bot.user.name)
