@@ -20,8 +20,8 @@ class _invite(commands.Cog):
     async def _invite(self, ctx):
         embedinvite=(
             discord.Embed(
-                title="WaterLand-Proj 초대코드", 
-                description="다양한 시스템을 제공하는 고품질 음악봇!",
+                title="Wonder-Music-Studico-Proj 초대코드", 
+                description="지원하지않",
                 color=0xabcee9
             )
             .add_field(
