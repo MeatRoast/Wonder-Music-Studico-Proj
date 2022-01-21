@@ -6,7 +6,9 @@ This bot is made for play in Waterland, The main functions are as follows.
 >2. wating.   
 
 Copyright ©2021 Wonder-Music-Studico. All rights reserve   
-Copyright ©2021 MeatRoast Inc. All rights reserve   
+Copyright ©2021 MeatRoast. All rights reserve   
+
+pause dev
 
 # 원더 뮤직 스튜디코-프로젝트   
 디스코드 원더 뮤직 스튜디코 서버 봇 프로젝트
@@ -17,4 +19,7 @@ Copyright ©2021 MeatRoast Inc. All rights reserve
 >2. 준비중   
 
 저작권 ©2021 원더 뮤직 스튜디코. 모든권리 보유   
-저작권 ©2021 MeatRoast Inc. 모든권리 보유   
+저작권 ©2021 MeatRoast 모든권리 보유   
+
+
+개발중단
